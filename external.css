@@ -1,0 +1,24 @@
+body{
+    background:teal;
+}
+.jumbotron{
+    background-color:orange;
+}
+
+.double {
+    border-style: double;
+    border-width:15px;
+    
+}
+.serif {
+    font-family: "Courier New", Times, Monospace;
+    border-style:double;
+    border-width:15px;
+    text-align:center;
+}
+.center {
+    text-align: center;
+}
+.accordion{
+background-color:teal;   
+}
