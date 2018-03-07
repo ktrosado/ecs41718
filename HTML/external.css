@@ -1,8 +1,10 @@
 body{
-    background:teal;
+    background:white;
 }
 .jumbotron{
-    background-color:orange;
+    background-color:#0B3C5D;
+    color:white;
+    
 }
 
 .double {
@@ -19,6 +21,4 @@ body{
 .center {
     text-align: center;
 }
-.accordion{
-background-color:teal;   
-}
+
